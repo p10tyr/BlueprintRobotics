@@ -120,6 +120,7 @@
     <Content Include="App_Data\Bytecode.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Bytecode, Version=1.1.5267.29491, Culture=neutral, processorArchitecture=MSIL">
