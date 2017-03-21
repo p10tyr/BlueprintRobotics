@@ -21962,10 +21962,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "\\\\nas\\MAIN\\Piotr\\Cloud\\Business\\BlueprintRobotics\\BlueprintRobotics\\BlueprintRobotics.UWA\\BlueprintRobotics.UWA\\BlueprintRobotics.UWA.csproj",
+      "projectUniqueName": "C:\\Projects\\Other\\BlueprintRobotics\\BlueprintRobotics.UWA\\BlueprintRobotics.UWA\\BlueprintRobotics.UWA.csproj",
       "projectName": "BlueprintRobotics.UWA",
-      "projectPath": "\\\\nas\\MAIN\\Piotr\\Cloud\\Business\\BlueprintRobotics\\BlueprintRobotics\\BlueprintRobotics.UWA\\BlueprintRobotics.UWA\\BlueprintRobotics.UWA.csproj",
-      "projectJsonPath": "\\\\nas\\MAIN\\Piotr\\Cloud\\Business\\BlueprintRobotics\\BlueprintRobotics\\BlueprintRobotics.UWA\\BlueprintRobotics.UWA\\project.json",
+      "projectPath": "C:\\Projects\\Other\\BlueprintRobotics\\BlueprintRobotics.UWA\\BlueprintRobotics.UWA\\BlueprintRobotics.UWA.csproj",
+      "projectJsonPath": "C:\\Projects\\Other\\BlueprintRobotics\\BlueprintRobotics.UWA\\BlueprintRobotics.UWA\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
