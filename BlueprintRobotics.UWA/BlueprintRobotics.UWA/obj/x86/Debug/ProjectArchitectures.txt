@@ -1,1 +1,0 @@
-\\nas\MAIN\Piotr\Cloud\Business\BlueprintRobotics\BlueprintRobotics\BlueprintRobotics.UWA\BlueprintRobotics.UWA\BlueprintRobotics.UWA.csproj;x86
