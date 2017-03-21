@@ -3,18 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueprintRobotics.UWA", "BlueprintRobotics.UWA\BlueprintRobotics.UWA.csproj", "{F199B4F6-371A-4608-A3E6-F062413EA3E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueprintRobotics", "BlueprintRobotics.UWA\BlueprintRobotics.UWA.csproj", "{F199B4F6-371A-4608-A3E6-F062413EA3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaestroDriver", "MaestroDriver\MaestroDriver.csproj", "{3087B582-F03A-41E6-94D8-96E4EB506604}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|ARM = Debug|ARM
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|ARM = Release|ARM
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Debug|ARM.ActiveCfg = Debug|ARM
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Debug|ARM.Build.0 = Debug|ARM
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Debug|ARM.Deploy.0 = Debug|ARM
@@ -24,6 +29,7 @@ Global
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Debug|x86.ActiveCfg = Debug|x86
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Debug|x86.Build.0 = Debug|x86
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Debug|x86.Deploy.0 = Debug|x86
+		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Release|Any CPU.ActiveCfg = Release|x86
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Release|ARM.ActiveCfg = Release|ARM
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Release|ARM.Build.0 = Release|ARM
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Release|ARM.Deploy.0 = Release|ARM
@@ -33,6 +39,22 @@ Global
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Release|x86.ActiveCfg = Release|x86
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Release|x86.Build.0 = Release|x86
 		{F199B4F6-371A-4608-A3E6-F062413EA3E1}.Release|x86.Deploy.0 = Release|x86
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Debug|ARM.ActiveCfg = Debug|ARM
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Debug|ARM.Build.0 = Debug|ARM
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Debug|x64.ActiveCfg = Debug|x64
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Debug|x64.Build.0 = Debug|x64
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Debug|x86.ActiveCfg = Debug|x86
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Debug|x86.Build.0 = Debug|x86
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Release|ARM.ActiveCfg = Release|ARM
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Release|ARM.Build.0 = Release|ARM
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Release|x64.ActiveCfg = Release|x64
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Release|x64.Build.0 = Release|x64
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Release|x86.ActiveCfg = Release|x86
+		{3087B582-F03A-41E6-94D8-96E4EB506604}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
